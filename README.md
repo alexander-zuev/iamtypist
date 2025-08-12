@@ -17,19 +17,6 @@ Transform hours of audio and video into accurate text in seconds.
 - **99+ Languages**: Automatic language detection
 - **Multiple Formats**: Export to PDF, DOCX, TXT, or SRT
 
-
-## 🚀 Get Started
-
-**[Try it free at iamtypist.dev →](https://iamtypist.dev/dashboard)**
-
-3 free transcriptions daily. No credit card required.
-
-## 🔗 Links
-
-- **Website**: [iamtypist.dev](https://iamtypist.dev)
-- **Launch**: [iamtypist.dev/dashboard](https://iamtypist.dev/dashboard)
-- **Blog**: [Building the Fastest AI Transcription](https://iamtypist.dev/blog/building-fastest-ai-audio-transcription)
-
 ---
 
 Built with ❤️ using Cloudflare Workers, React, and Groq AI
